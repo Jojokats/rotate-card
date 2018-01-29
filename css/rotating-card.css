@@ -313,6 +313,10 @@ body{
     color: #999;
 }
 
+.white-board .connect {
+    margin-bottom: 28px;
+}
+
 /********/
 .separator-container {
   text-align: center;
@@ -348,7 +352,7 @@ body{
 }
 
 .white-board .copy {
-    margin-top: 30px;
+    margin-top: 10px;
     font-size: 1.4rem;
 }
 
